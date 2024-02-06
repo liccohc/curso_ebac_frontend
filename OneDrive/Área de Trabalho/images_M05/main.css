@@ -57,6 +57,9 @@ section .container {
     margin-right: 8px;
 }
 
+section .container{
+    align-items: flex-start;
+}
 
 section {
     padding: 24px 0;
